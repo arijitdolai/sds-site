@@ -117,7 +117,7 @@ export default function Home({ setActivePage }) {
       {/* President's Message */}
       <section className="section" style={{ background: 'var(--bg-section)' }}>
         <div className="container" style={{ maxWidth: '800px' }}>
-          <h2 className="section-title">A Message From Leadership</h2>
+          <h2 className="section-title">A Message From the President</h2>
           <PresidentMessage />
         </div>
       </section>
