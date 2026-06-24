@@ -1,5 +1,6 @@
 import PresidentMessage from '../components/PresidentMessage';
 import FAQAccordion from '../components/FAQAccordion';
+import '../index.css';
 
 export default function Home({ setActivePage }) {
   return (
@@ -45,7 +46,7 @@ export default function Home({ setActivePage }) {
             </ul>
           </div>
           <div className="card">
-            <h3 style={{ color: 'var(--color-accent)', marginBottom: '1rem' }}>By The Numbers</h3>
+            <h3 className="by-the-numbers" style={{ marginBottom: '1rem' }}>By The Numbers</h3>
             <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '1rem' }}>
               <div style={{ textAlign: 'center' }}>
                 <div style={{ fontSize: '2rem', fontWeight: 'bold' }}>100+</div>
