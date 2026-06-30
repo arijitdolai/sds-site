@@ -1,51 +1,43 @@
 # Project Name
 
-This is an assignment project from the Society for Data Science club. A simle, clean, minimalistic 
-website for the SDS club.
+This is an assignment project from the Society for Data Science club. A simple, clean, minimalistic website for the SDS club.
 
 ## Features
-
 - React-based UI
 - Fast loading
 - Modern components
 
 ## Tech Stack
 
-- React
-- Vite
-- JavaScript
-- CSS
-- HTML
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Installation
 
 Clone the repository:
-
-```bash
+\```bash
 git clone https://github.com/arijitdolai/sds-assignment.git
+\```
 
-```
-
-Install dependencies :
-
-```bash
+Install dependencies:
+\```bash
 npm install
-```
+\```
 
 Run locally:
-
-```bash
+\```bash
 npm run dev
-```
+\```
 
 ## Build
-
-```bash
+\```bash
 npm run build
-```
+\```
 
 ## Live Demo
-
 https://sds-site-eight.vercel.app/
 
 ## Author
